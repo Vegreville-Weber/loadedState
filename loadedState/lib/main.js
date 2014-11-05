@@ -1,5 +1,5 @@
 //Firefox Addon created by Bruno Vegreville and Come Weber | Last Update : November 2014 . Contact at bruno.vegreville@gmail.com .
-//Once Firefox launched, the loadedState addon write in the file 'resultat.txt' every following  state that an firefox tab can have : -open , -loaded , -activated, -deactivated, -closed. Only the last state is written.
+//Once Firefox launched, the loadedState addon write in the file 'resultat.txt' every following  state that an firefox tab can have : -open , -loaded , -activated, -deactivated, -closed. Only the last state is written in the file.
 
 
 const {Cc,Ci,Cu} = require("chrome"); 
