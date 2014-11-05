@@ -1,0 +1,10 @@
+{
+  "name": "loadedstate",
+  "title": "loadedState",
+  "id": "jid1-W08HAVx6pqFBoA",
+  "description": "Track and write the state of your mozilla tabs.",
+  "author": "Bruno Vegreville and Côme Weber",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "icon": "data/listen.png"
+}
