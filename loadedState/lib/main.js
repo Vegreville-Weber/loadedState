@@ -8,7 +8,7 @@ Cu.import("resource://gre/modules/FileUtils.jsm");
 
 function writeState(state){
 	//create proper path for file
-	var theFile = '/home/bruno/Bureau/AddonFirefox/loadedState/data/resultat.txt';
+	var theFile = '~/git/loadedState/loadedState/data/resultat.txt';
 	//create component for file writing
 	var file = new FileUtils.File(theFile);
 	var foStream = Cc["@mozilla.org/network/file-output-stream;1"].createInstance(Ci.nsIFileOutputStream);
